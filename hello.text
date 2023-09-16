@@ -1,1 +1,11 @@
 this is my first file in git repo
+
+
+git config --global user.name="kami"
+git config --global user.email=kamiindus5@gmail.com"
+
+
+
+git add *
+git commit -m "i have created a text file"
+git push
